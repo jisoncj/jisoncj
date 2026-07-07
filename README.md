@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Cyber Security student<br>I'm a Python developer<br>
+I'm a SOC Analyst<br>I'm a Java developer<br>
 
 
 ## 🌐 Socials:
